@@ -1,21 +1,23 @@
 # victr-icons
 
+[![](https://data.jsdelivr.com/v1/package/gh/tlezotte/victr-icons/badge)](https://www.jsdelivr.com/package/gh/tlezotte/victr-icons)
+
 ## Latest Version: **v0.6.1**
 
 ### Three ways to use
 ```html
 <!-- victr: Icon Font -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6/style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0/style.min.css">
 ```
 
 ```html
 <!-- victr: SVG Sprite -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6/sprite/sprite.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0/sprite/sprite.min.css">
 ```
 
 ```html
 <!-- victr: Images in PDF, PNG and SVG format -->
-<img src="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6/img/PNG/ara4us.png">
+<img src="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0/img/PNG/ara4us.png">
 ```
 
 ## Previous Versions
@@ -25,12 +27,12 @@
 ### Three ways to use
 ```html
 <!-- victr: Icon Font -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6.0/style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6.0/style.min.css">
 ```
 
 ```html
 <!-- victr: SVG Sprite -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6.0/sprite/sprite.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6.0/sprite/sprite.min.css">
 ```
 
 ```html
