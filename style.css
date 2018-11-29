@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'victr';
-  src:  url('fonts/victr.eot?vu20tu');
-  src:  url('fonts/victr.eot?vu20tu#iefix') format('embedded-opentype'),
-    url('fonts/victr.ttf?vu20tu') format('truetype'),
-    url('fonts/victr.woff?vu20tu') format('woff'),
-    url('fonts/victr.svg?vu20tu#victr') format('svg');
+  src:  url('fonts/victr.eot?b72vt2');
+  src:  url('fonts/victr.eot?b72vt2#iefix') format('embedded-opentype'),
+    url('fonts/victr.ttf?b72vt2') format('truetype'),
+    url('fonts/victr.woff?b72vt2') format('woff'),
+    url('fonts/victr.svg?b72vt2#victr') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -131,4 +131,7 @@
 }
 .v-pmforallpeople:before {
   content: "\e917";
+}
+.v-drugrepurposing:before {
+  content: "\e91c";
 }
