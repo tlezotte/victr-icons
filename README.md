@@ -20,202 +20,276 @@
 
 <br>
 
-## Included Fonts: **v0.6.0**
+## Included Images: **v0.6.0**
 
 ![](img/PNG/airflo.png) 
 
-`<i class="victr v-airflo"></i>`
+Icon Font: `<i class="victr v-airflo"></i>`
+
+SVG Sprite: `<svg class="victr v-airflo"><use xlink:href="#v-airflo"></use></svg>`
 
 ---
 
 ![](img/PNG/ara4us.png) 
 
-`<i class="victr v-ara4us"></i>`
+Icon Font: `<i class="victr v-ara4us"></i>`
+
+SVG Sprite: `<svg class="victr v-ara4us"><use xlink:href="#v-ara4us"></use></svg>`
 
 ---
 
 ![](img/PNG/cds_kb.png) 
 
-`<i class="victr v-cds_kb"></i>`
+Icon Font: `<i class="victr v-cds_kb"></i>`
+
+SVG Sprite: `<svg class="victr v-cds_kb"><use xlink:href="#v-cds_kb"></use></svg>`
 
 ---
 
 ![](img/PNG/daybreak.png) 
 
-`<i class="victr v-daybreak"></i>`
+Icon Font: `<i class="victr v-daybreak"></i>`
+
+SVG Sprite: `<svg class="victr v-daybreak"><use xlink:href="#v-daybreak"></use></svg>`
 
 ---
 
 ![](img/PNG/emerge.png) 
 
-`<i class="victr v-emerge"></i>`
+Icon Font: `<i class="victr v-emerge"></i>`
+
+SVG Sprite: `<svg class="victr v-emerge"><use xlink:href="#v-emerge"></use></svg>`
 
 ---
 
 ![](img/PNG/etl_dashboard.png) 
 
-`<i class="victr v-etl_dashboard"></i>`
+Icon Font: `<i class="victr v-etl_dashboard"></i>`
+
+SVG Sprite: `<svg class="victr v-etl_dashboard"><use xlink:href="#v-etl_dashboard"></use></svg>`
 
 ---
 
 ![](img/PNG/fastertogether.png) 
 
-`<i class="victr v-fastertogether"></i>`
+Icon Font: `<i class="victr v-fastertogether"></i>`
+
+SVG Sprite: `<svg class="victr v-fastertogether"><use xlink:href="#v-fastertogether"></use></svg>`
 
 ---
 
 ![](img/PNG/irb_choice.png) 
 
-`<i class="victr v-irb_choice"></i>`
+Icon Font: `<i class="victr v-irb_choice"></i>`
+
+SVG Sprite: `<svg class="victr v-irb_choice"><use xlink:href="#v-irb_choice"></use></svg>`
 
 ---
 
 ![](img/PNG/irex.png) 
 
-`<i class="victr v-irex"></i>`
+Icon Font: `<i class="victr v-irex"></i>`
+
+SVG Sprite: `<svg class="victr v-irex"><use xlink:href="#v-irex"></use></svg>`
 
 ---
 
 ![](img/PNG/mid-south.png) 
 
-`<i class="victr v-mid-south"></i>`
+Icon Font: `<i class="victr v-mid-south"></i>`
+
+SVG Sprite: `<svg class="victr v-mid-south"><use xlink:href="#v-mid-south"></use></svg>`
 
 ---
 
 ![](img/PNG/mydruggenome.png) 
 
-`<i class="victr v-mydruggenome"></i>`
+Icon Font: `<i class="victr v-mydruggenome"></i>`
+
+SVG Sprite: `<svg class="victr v-mydruggenome"><use xlink:href="#v-mydruggenome"></use></svg>`
 
 ---
 
 ![](img/PNG/myredcap.png) 
 
-`<i class="victr v-myredcap"></i>`
+Icon Font: `<i class="victr v-myredcap"></i>`
+
+SVG Sprite: `<svg class="victr v-myredcap"><use xlink:href="#v-myredcap"></use></svg>`
 
 ---
 
 ![](img/PNG/noaac.png) 
 
-`<i class="victr v-noaac"></i>`
+Icon Font: `<i class="victr v-noaac"></i>`
+
+SVG Sprite: `<svg class="victr v-noaac"><use xlink:href="#v-noaac"></use></svg>`
 
 ---
 
 ![](img/PNG/participants.png) 
 
-`<i class="victr v-participants"></i>`
+Icon Font: `<i class="victr v-participants"></i>`
+
+SVG Sprite: `<svg class="victr v-participants"><use xlink:href="#v-participants"></use></svg>`
 
 ---
 
 ![](img/PNG/peer.png) 
 
-`<i class="victr v-peer"></i>`
+Icon Font: `<i class="victr v-peer"></i>`
+
+SVG Sprite: `<svg class="victr v-peer"><use xlink:href="#v-peer"></use></svg>`
 
 ---
 
 ![](img/PNG/pegasus.png) 
 
-`<i class="victr v-pegasus"></i>`
+Icon Font: `<i class="victr v-pegasus"></i>`
+
+SVG Sprite: `<svg class="victr v-pegasus"><use xlink:href="#v-pegasus"></use></svg>`
 
 ---
 
 ![](img/PNG/pmforallpeople.png) 
 
-`<i class="victr v-pmforallpeople"></i>`
+Icon Font: `<i class="victr v-pmforallpeople"></i>`
+
+SVG Sprite: `<svg class="victr v-pmforallpeople"><use xlink:href="#v-pmforallpeople"></use></svg>`
 
 ---
 
 ![](img/PNG/rd.png) 
 
-`<i class="victr v-rd"></i>`
+Icon Font: `<i class="victr v-rd"></i>`
+
+SVG Sprite: `<svg class="victr v-rd"><use xlink:href="#v-rd"></use></svg>`
 
 ---
 
 ![](img/PNG/recruit.png) 
 
-`<i class="victr v-recruit"></i>`
+Icon Font: `<i class="victr v-recruit"></i>`
+
+SVG Sprite: `<svg class="victr v-recruit"><use xlink:href="#v-recruit"></use></svg>`
 
 ---
 
 ![](img/PNG/redcap.png) 
 
-`<i class="victr v-redcap"></i>`
+Icon Font: `<i class="victr v-redcap"></i>`
+
+SVG Sprite: `<svg class="victr v-redcap"><use xlink:href="#v-redcap"></use></svg>`
 
 ---
 
 ![](img/PNG/redcapmobile.png) 
 
-`<i class="victr v-redcapmobile"></i>`
+Icon Font: `<i class="victr v-redcapmobile"></i>`
+
+SVG Sprite: `<svg class="victr v-redcapmobile"><use xlink:href="#v-airredcapmobileflo"></use></svg>`
 
 ---
 
 ![](img/PNG/researchmatch.png) 
 
-`<i class="victr v-researchmatch"></i>`
+Icon Font: `<i class="victr v-researchmatch"></i>`
+
+SVG Sprite: `<svg class="victr v-researchmatch"><use xlink:href="#v-researchmatch"></use></svg>`
 
 ---
 
 ![](img/PNG/right.png) 
 
-`<i class="victr v-right"></i>`
+Icon Font: `<i class="victr v-right"></i>`
+
+SVG Sprite: `<svg class="victr v-right"><use xlink:href="#v-right"></use></svg>`
 
 ---
 
 ![](img/PNG/rocket.png) 
 
-`<i class="victr v-rocket"></i>`
+Icon Font: `<i class="victr v-rocket"></i>`
+
+SVG Sprite: `<svg class="victr v-rocket"><use xlink:href="#v-rocket"></use></svg>`
 
 ---
 
 ![](img/PNG/sd.png) 
 
-`<i class="victr v-sd"></i>`
+Icon Font: `<i class="victr v-sd"></i>`
+
+SVG Sprite: `<svg class="victr v-sd"><use xlink:href="#v-sd"></use></svg>`
 
 ---
 
 ![](img/PNG/sphinx.png)
 
-`<i class="victr v-sphinx"></i>`
+Icon Font: `<i class="victr v-sphinx"></i>`
+
+SVG Sprite: `<svg class="victr v-sphinx"><use xlink:href="#v-sphinx"></use></svg>`
 
 ---
 
 ![](img/PNG/starbrite.png)
 
-`<i class="victr v-starbrite"></i>`
+Icon Font: `<i class="victr v-starbrite"></i>`
+
+SVG Sprite: `<svg class="victr v-starbrite"><use xlink:href="#v-starbrite"></use></svg>`
 
 ---
 
 ![](img/PNG/stride.png)
 
-`<i class="victr v-stride"></i>`
+Icon Font: `<i class="victr v-stride"></i>`
+
+SVG Sprite: `<svg class="victr v-stride"><use xlink:href="#v-stride"></use></svg>`
 
 ---
 
 ![](img/PNG/studies.png)
 
-`<i class="victr v-studies"></i>`
+Icon Font: `<i class="victr v-studies"></i>`
+
+SVG Sprite: `<svg class="victr v-studies"><use xlink:href="#v-studies"></use></svg>`
 
 ---
 
 ![](img/PNG/tin.png)
 
-`<i class="victr v-tin"></i>`
+Icon Font: `<i class="victr v-tin"></i>`
+
+SVG Sprite: `<svg class="victr v-tin"><use xlink:href="#v-tin"></use></svg>`
 
 ---
 
 ![](img/PNG/trialstoday.png)
 
-`<i class="victr v-trialstoday"></i>`
+Icon Font: `<i class="victr v-trialstoday"></i>`
+
+SVG Sprite: `<svg class="victr v-trialstoday"><use xlink:href="#v-trialstoday"></use></svg>`
 
 ---
 
 ![](img/PNG/vcc.png)
 
-`<i class="victr v-sphivccnx"></i>`
+Icon Font: `<i class="victr v-vcc"></i>`
+
+SVG Sprite: `<svg class="victr v-vcc"><use xlink:href="#v-vcc"></use></svg>`
 
 ---
 
 ![](img/PNG/vumc.png)
 
-`<i class="victr v-vumc"></i>`
+Icon Font: `<i class="victr v-vumc"></i>`
+
+SVG Sprite: `<svg class="victr v-airvumcflo"><use xlink:href="#v-vumc"></use></svg>`
 
 ---
+
+<br>
+<br>
+
+## Source
+Font generated by: [icomoon](https://icomoon.io/app)
+
+SVG created with: [Affinity Designer](https://affinity.serif.com/en-us/designer)
