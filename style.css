@@ -1,0 +1,134 @@
+@font-face {
+  font-family: 'victr';
+  src:  url('fonts/victr.eot?vu20tu');
+  src:  url('fonts/victr.eot?vu20tu#iefix') format('embedded-opentype'),
+    url('fonts/victr.ttf?vu20tu') format('truetype'),
+    url('fonts/victr.woff?vu20tu') format('woff'),
+    url('fonts/victr.svg?vu20tu#victr') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.victr {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'victr' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.v-vumc:before {
+  content: "\e901";
+}
+.v-vanderbilt:before {
+  content: "\e901";
+}
+.v-redcap:before {
+  content: "\e900";
+}
+.v-myredcap:before {
+  content: "\e906";
+}
+.v-redcapmobile:before {
+  content: "\e907";
+}
+.v-pegasus:before {
+  content: "\e902";
+}
+.v-esmart:before {
+  content: "\e903";
+}
+.v-researchmatch:before {
+  content: "\e904";
+}
+.v-starbrite:before {
+  content: "\e905";
+}
+.v-participants:before {
+  content: "\e909";
+}
+.v-airflo:before {
+  content: "\e90a";
+}
+.v-noaac:before {
+  content: "\e90b";
+}
+.v-rocket:before {
+  content: "\e90c";
+}
+.v-sphinx:before {
+  content: "\e90d";
+}
+.v-ara4us:before {
+  content: "\e90e";
+}
+.v-right:before {
+  content: "\e90f";
+}
+.v-trialstoday:before {
+  content: "\e910";
+}
+.v-rd:before {
+  content: "\e91f";
+}
+.v-sd:before {
+  content: "\e920";
+}
+.v-studies:before {
+  content: "\e913";
+}
+.v-tin:before {
+  content: "\e921";
+}
+.v-mid-south:before {
+  content: "\e915";
+}
+.v-stride:before {
+  content: "\e916";
+}
+.v-vcc:before {
+  content: "\e922";
+}
+.v-emerge:before {
+  content: "\e918";
+}
+.v-cds_kb:before {
+  content: "\e919";
+}
+.v-crc:before {
+  content: "\e91a";
+}
+.v-irb_choice:before {
+  content: "\e91b";
+}
+.v-irex:before {
+  content: "\e923";
+}
+.v-etl_dashboard:before {
+  content: "\e91d";
+}
+.v-mydruggenome:before {
+  content: "\e91e";
+}
+.v-peer:before {
+  content: "\e908";
+}
+.v-daybreak:before {
+  content: "\e911";
+}
+.v-recruit:before {
+  content: "\e912";
+}
+.v-fastertogether:before {
+  content: "\e914";
+}
+.v-pmforallpeople:before {
+  content: "\e917";
+}

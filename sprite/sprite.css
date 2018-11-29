@@ -1,0 +1,181 @@
+.victr {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+}
+.v-vumc {
+  width: 39px;
+  height: 32px;
+  background-position: 0 0;
+}
+.v-redcap {
+  width: 32px;
+  height: 32px;
+  background-position: -48px 0;
+}
+.v-myredcap {
+  width: 32px;
+  height: 32px;
+  background-position: -96px 0;
+}
+.v-redcapmobile {
+  width: 32px;
+  height: 32px;
+  background-position: -144px 0;
+}
+.v-pegasus {
+  width: 32px;
+  height: 32px;
+  background-position: -192px 0;
+}
+.v-esmart {
+  width: 32px;
+  height: 32px;
+  background-position: -240px 0;
+}
+.v-researchmatch {
+  width: 32px;
+  height: 32px;
+  background-position: -288px 0;
+}
+.v-starbrite {
+  width: 32px;
+  height: 32px;
+  background-position: -336px 0;
+}
+.v-participants {
+  width: 32px;
+  height: 32px;
+  background-position: -384px 0;
+}
+.v-airflo {
+  width: 32px;
+  height: 32px;
+  background-position: -432px 0;
+}
+.v-noaac {
+  width: 32px;
+  height: 32px;
+  background-position: -480px 0;
+}
+.v-rocket {
+  width: 32px;
+  height: 32px;
+  background-position: -528px 0;
+}
+.v-sphinx {
+  width: 32px;
+  height: 32px;
+  background-position: -576px 0;
+}
+.v-ara4us {
+  width: 32px;
+  height: 32px;
+  background-position: -624px 0;
+}
+.v-right {
+  width: 32px;
+  height: 32px;
+  background-position: -672px 0;
+}
+.v-trialstoday {
+  width: 32px;
+  height: 32px;
+  background-position: -720px 0;
+}
+.v-rd {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -48px;
+}
+.v-sd {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -48px;
+}
+.v-studies {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -48px;
+}
+.v-tin {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -48px;
+}
+.v-mid-south {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -48px;
+}
+.v-stride {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -48px;
+}
+.v-vcc {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -48px;
+}
+.v-emerge {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -48px;
+}
+.v-cds_kb {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -48px;
+}
+.v-crc {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -48px;
+}
+.v-irb_choice {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -48px;
+}
+.v-irex {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -48px;
+}
+.v-etl_dashboard {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -48px;
+}
+.v-mydruggenome {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -48px;
+}
+.v-peer {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -48px;
+}
+.v-daybreak {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -48px;
+}
+.v-recruit {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -96px;
+}
+.v-fastertogether {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -96px;
+}
+.v-pmforallpeople {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -96px;
+}
+

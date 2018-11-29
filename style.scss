@@ -1,0 +1,209 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-victr}';
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-victr}.eot?vu20tu');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-victr}.eot?vu20tu#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-victr}.ttf?vu20tu') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-victr}.woff?vu20tu') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-victr}.svg?vu20tu##{$icomoon-font-victr}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.victr {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-victr}' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.v-vumc {
+  &:before {
+    content: $v-vumc; 
+  }
+}
+.v-vanderbilt {
+  &:before {
+    content: $v-vanderbilt; 
+  }
+}
+.v-redcap {
+  &:before {
+    content: $v-redcap; 
+  }
+}
+.v-myredcap {
+  &:before {
+    content: $v-myredcap; 
+  }
+}
+.v-redcapmobile {
+  &:before {
+    content: $v-redcapmobile; 
+  }
+}
+.v-pegasus {
+  &:before {
+    content: $v-pegasus; 
+  }
+}
+.v-esmart {
+  &:before {
+    content: $v-esmart; 
+  }
+}
+.v-researchmatch {
+  &:before {
+    content: $v-researchmatch; 
+  }
+}
+.v-starbrite {
+  &:before {
+    content: $v-starbrite; 
+  }
+}
+.v-participants {
+  &:before {
+    content: $v-participants; 
+  }
+}
+.v-airflo {
+  &:before {
+    content: $v-airflo; 
+  }
+}
+.v-noaac {
+  &:before {
+    content: $v-noaac; 
+  }
+}
+.v-rocket {
+  &:before {
+    content: $v-rocket; 
+  }
+}
+.v-sphinx {
+  &:before {
+    content: $v-sphinx; 
+  }
+}
+.v-ara4us {
+  &:before {
+    content: $v-ara4us; 
+  }
+}
+.v-right {
+  &:before {
+    content: $v-right; 
+  }
+}
+.v-trialstoday {
+  &:before {
+    content: $v-trialstoday; 
+  }
+}
+.v-rd {
+  &:before {
+    content: $v-rd; 
+  }
+}
+.v-sd {
+  &:before {
+    content: $v-sd; 
+  }
+}
+.v-studies {
+  &:before {
+    content: $v-studies; 
+  }
+}
+.v-tin {
+  &:before {
+    content: $v-tin; 
+  }
+}
+.v-mid-south {
+  &:before {
+    content: $v-mid-south; 
+  }
+}
+.v-stride {
+  &:before {
+    content: $v-stride; 
+  }
+}
+.v-vcc {
+  &:before {
+    content: $v-vcc; 
+  }
+}
+.v-emerge {
+  &:before {
+    content: $v-emerge; 
+  }
+}
+.v-cds_kb {
+  &:before {
+    content: $v-cds_kb; 
+  }
+}
+.v-crc {
+  &:before {
+    content: $v-crc; 
+  }
+}
+.v-irb_choice {
+  &:before {
+    content: $v-irb_choice; 
+  }
+}
+.v-irex {
+  &:before {
+    content: $v-irex; 
+  }
+}
+.v-etl_dashboard {
+  &:before {
+    content: $v-etl_dashboard; 
+  }
+}
+.v-mydruggenome {
+  &:before {
+    content: $v-mydruggenome; 
+  }
+}
+.v-peer {
+  &:before {
+    content: $v-peer; 
+  }
+}
+.v-daybreak {
+  &:before {
+    content: $v-daybreak; 
+  }
+}
+.v-recruit {
+  &:before {
+    content: $v-recruit; 
+  }
+}
+.v-fastertogether {
+  &:before {
+    content: $v-fastertogether; 
+  }
+}
+.v-pmforallpeople {
+  &:before {
+    content: $v-pmforallpeople; 
+  }
+}
+
