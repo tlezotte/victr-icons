@@ -22,12 +22,15 @@
 ```
 
 <br>
+<br>
 
 ## Previous Versions
 
 ### **v0.6.1** - 1 image
 
 ### **v0.6.0** - 33 images 
+
+<br>
 
 ### Three ways to use
 
@@ -45,7 +48,7 @@
 
 ```html
 <!-- victr: Images in PDF, PNG and SVG format -->
-<img src="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6.0/img/PNG/ara4us.png">
+<img src="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@<version>/img/PNG/ara4us.png">
 ```
 
 <br>
