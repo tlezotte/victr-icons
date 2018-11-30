@@ -8,17 +8,17 @@
 
 ```html
 <!-- victr: Icon Font -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0/style.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6/style.min.css">
 ```
 
 ```html
 <!-- victr: SVG Sprite -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0/sprite/sprite.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6/sprite/sprite.min.css">
 ```
 
 ```html
 <!-- victr: Images in PDF, PNG and SVG format -->
-<img src="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0/img/PNG/ara4us.png">
+<img src="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6/img/PNG/ara4us.png">
 ```
 
 <br>
