@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="airflo">
+        <g transform="matrix(1,0,0,1,0,-2)">
+            <path d="M11.459,42.126C11.869,38.531 13.88,34.965 16.848,31.345L56.335,31.345C56.448,25.585 61.159,20.943 66.947,20.943C72.804,20.943 77.56,25.699 77.56,31.556C77.56,37.414 72.804,42.17 66.947,42.17L11.459,42.126Z" style="fill:white;stroke:rgb(76,194,247);stroke-width:1px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,2)">
+            <path d="M56.649,54.877C62.739,54.916 67.671,59.872 67.671,65.971C67.671,72.094 62.7,77.065 56.577,77.065C50.644,77.065 45.792,72.397 45.497,66.536L16.768,66.536C14.048,63.909 12.135,60.043 11.068,54.877L56.577,54.877L56.649,54.877Z" style="fill:white;stroke:rgb(76,194,247);stroke-width:1px;"/>
+        </g>
+        <path d="M78.074,43.065C84.242,43.104 89.237,48.124 89.237,54.301C89.237,60.502 84.202,65.536 78.001,65.536C71.8,65.536 66.766,60.502 66.766,54.301C66.766,54.243 66.766,54.186 66.767,54.128L11.089,54.128C10.084,50.22 10.039,46.523 11.089,43.065L78.001,43.065L78.074,43.065Z" style="fill:white;stroke:rgb(76,194,247);stroke-width:1px;"/>
+    </g>
+</svg>

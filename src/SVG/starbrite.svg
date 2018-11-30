@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1.5625,0,0,1.5625,0,0)">
+        <g id="starbrite">
+            <path d="M32.174,1.611C48.732,1.611 62.174,15.054 62.174,31.611C62.174,48.169 48.732,61.611 32.174,61.611C15.617,61.611 2.174,48.169 2.174,31.611C2.174,15.054 15.617,1.611 32.174,1.611ZM32.084,12.892L36.574,26.272L51.105,26.272L39.349,34.542L43.84,47.922L32.084,39.653L20.328,47.922L24.819,34.542L13.063,26.272L27.594,26.272L32.084,12.892Z" style="fill:rgb(254,189,17);"/>
+        </g>
+    </g>
+</svg>
