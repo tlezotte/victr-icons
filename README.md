@@ -2,23 +2,23 @@
 
 [![](https://data.jsdelivr.com/v1/package/gh/tlezotte/victr-icons/badge)](https://www.jsdelivr.com/package/gh/tlezotte/victr-icons)
 
-## Latest Version: **v0.6.2** - 3 images
+## Latest Version: **v1.0** - 3 images
 
 ### Three ways to use
 
 ```html
 <!-- victr: Icon Font -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6/style.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@1/style.min.css">
 ```
 
 ```html
 <!-- victr: SVG Sprite -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6/sprite/sprite.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@1/sprite/sprite.min.css">
 ```
 
 ```html
 <!-- victr: Images in PDF, PNG and SVG format -->
-<img src="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6/img/PNG/ara4us.png">
+<img src="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@1/img/PNG/ara4us.png">
 ```
 
 <br>
@@ -54,7 +54,7 @@
 <br>
 <br>
 
-## Included Images: **v0.6.2**
+## Included Images: **v1.0**
 
 ![](img/PNG/dnascan.png) 
 
