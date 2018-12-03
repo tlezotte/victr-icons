@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ef891e');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?ef891e#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?ef891e') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?ef891e') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?ef891e##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?6gw745');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?6gw745#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?6gw745') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?6gw745') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?6gw745##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -224,6 +224,16 @@
 .v-shrine {
   &:before {
     content: $v-shrine; 
+  }
+}
+.v-victastrialsites {
+  &:before {
+    content: $v-victastrialsites; 
+  }
+}
+.v-abnlmarro {
+  &:before {
+    content: $v-abnlmarro; 
   }
 }
 

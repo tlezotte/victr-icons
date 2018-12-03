@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'victr';
-  src:  url('fonts/victr.eot?ef891e');
-  src:  url('fonts/victr.eot?ef891e#iefix') format('embedded-opentype'),
-    url('fonts/victr.ttf?ef891e') format('truetype'),
-    url('fonts/victr.woff?ef891e') format('woff'),
-    url('fonts/victr.svg?ef891e#victr') format('svg');
+  src:  url('fonts/victr.eot?6gw745');
+  src:  url('fonts/victr.eot?6gw745#iefix') format('embedded-opentype'),
+    url('fonts/victr.ttf?6gw745') format('truetype'),
+    url('fonts/victr.woff?6gw745') format('woff'),
+    url('fonts/victr.svg?6gw745#victr') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -143,4 +143,10 @@
 }
 .v-shrine:before {
   content: "\e927";
+}
+.v-victastrialsites:before {
+  content: "\e924";
+}
+.v-abnlmarro:before {
+  content: "\e928";
 }
