@@ -1,34 +1,36 @@
 # victr-icons
 
-### Total Images: 39 images
+### Total Images: 40 images
 
 [![](https://data.jsdelivr.com/v1/package/gh/tlezotte/victr-icons/badge)](https://www.jsdelivr.com/package/gh/tlezotte/victr-icons)
 
 <br>
 
-## Latest Version: **v0.6.3** - 2 images
+## Latest Version: **v0.6.4** - 1 images
 
 ### Three ways to use
 
 ```html
 <!-- victr: Icon Font -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6/style.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0/style.min.css">
 ```
 
 ```html
 <!-- victr: SVG Sprite -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6/sprite/sprite.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0/sprite/sprite.min.css">
 ```
 
 ```html
 <!-- victr: Images in PDF, PNG and SVG format -->
-<img src="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0.6/img/PNG/ara4us.png">
+<img src="https://cdn.jsdelivr.net/gh/tlezotte/victr-icons@0/img/PNG/ara4us.png">
 ```
 
 <br>
 <br>
 
 ## Previous Versions
+
+## **v0.6.3** - 2 images
 
 ### **v0.6.2** - 3 images
 
@@ -59,6 +61,16 @@
 
 <br>
 <br>
+
+## Included Images: **v0.6.4**
+
+![](img/PNG/starcrn.png) 
+
+Icon Font: `<i class="victr v-starcrn"></i>`
+
+SVG Sprite: `<svg class="victr v-starcrn"><use xlink:href="#v-starcrn"></use></svg>`
+
+---
 
 ## Included Images: **v0.6.3**
 

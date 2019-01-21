@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?6gw745');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?6gw745#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?6gw745') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?6gw745') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?6gw745##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?27pl6j');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?27pl6j#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?27pl6j') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?27pl6j') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?27pl6j##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -234,6 +234,11 @@
 .v-abnlmarro {
   &:before {
     content: $v-abnlmarro; 
+  }
+}
+.v-starcrn {
+  &:before {
+    content: $v-starcrn; 
   }
 }
 
