@@ -1,12 +1,12 @@
 # victr-icons
 
-### Total Images: 40 images
+### Total Images: 41 images
 
 [![](https://data.jsdelivr.com/v1/package/gh/tlezotte/victr-icons/badge)](https://www.jsdelivr.com/package/gh/tlezotte/victr-icons)
 
 <br>
 
-## Latest Version: **v0.6.4** - 1 images
+## Latest Version: **v0.6.5** - 1 images
 
 ### Three ways to use
 
@@ -30,7 +30,9 @@
 
 ## Previous Versions
 
-## **v0.6.3** - 2 images
+### **v0.6.4** - 1 images
+
+### **v0.6.3** - 2 images
 
 ### **v0.6.2** - 3 images
 
@@ -61,6 +63,16 @@
 
 <br>
 <br>
+
+## Included Images: **v0.6.5**
+
+![](img/PNG/victraim.png) 
+
+Icon Font: `<i class="victr v-victraim"></i>`
+
+SVG Sprite: `<svg class="victr v-victraim"><use xlink:href="#v-victraim"></use></svg>`
+
+---
 
 ## Included Images: **v0.6.4**
 

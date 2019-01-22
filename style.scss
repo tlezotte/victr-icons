@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?27pl6j');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?27pl6j#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?27pl6j') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?27pl6j') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?27pl6j##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?srvtwb');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?srvtwb#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?srvtwb') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?srvtwb') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?srvtwb##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -239,6 +239,11 @@
 .v-starcrn {
   &:before {
     content: $v-starcrn; 
+  }
+}
+.v-victraim {
+  &:before {
+    content: $v-victraim; 
   }
 }
 
