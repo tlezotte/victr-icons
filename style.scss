@@ -2,16 +2,16 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?1zfeya');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?1zfeya#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?1zfeya') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?1zfeya') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?1zfeya##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?3r5s52');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?3r5s52#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?3r5s52') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?3r5s52') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?3r5s52##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
-.brands {
+.victr {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: '#{$icomoon-font-family}' !important;
   speak: none;
@@ -26,169 +26,224 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.b-pivotaltracker {
+.v-vumc {
   &:before {
-    content: $b-pivotaltracker; 
+    content: $v-vumc; 
   }
 }
-.b-statuscake {
+.v-vanderbilt {
   &:before {
-    content: $b-statuscake; 
+    content: $v-vanderbilt; 
   }
 }
-.b-splunk {
+.v-redcap {
   &:before {
-    content: $b-splunk; 
+    content: $v-redcap; 
   }
 }
-.b-redhat {
+.v-myredcap {
   &:before {
-    content: $b-redhat; 
+    content: $v-myredcap; 
   }
 }
-.b-googlecloud {
+.v-redcapmobile {
   &:before {
-    content: $b-googlecloud; 
+    content: $v-redcapmobile; 
   }
 }
-.b-mailchimp {
+.v-pegasus {
   &:before {
-    content: $b-mailchimp; 
+    content: $v-pegasus; 
   }
 }
-.b-jira {
+.v-esmart {
   &:before {
-    content: $b-jira; 
+    content: $v-esmart; 
   }
 }
-.b-pma {
+.v-researchmatch {
   &:before {
-    content: $b-pma; 
+    content: $v-researchmatch; 
   }
 }
-.b-monyog {
+.v-starbrite {
   &:before {
-    content: $b-monyog; 
+    content: $v-starbrite; 
   }
 }
-.b-oracle {
+.v-participants {
   &:before {
-    content: $b-oracle; 
+    content: $v-participants; 
   }
 }
-.b-solr {
+.v-airflo {
   &:before {
-    content: $b-solr; 
+    content: $v-airflo; 
   }
 }
-.b-nutch {
+.v-noaac {
   &:before {
-    content: $b-nutch; 
+    content: $v-noaac; 
   }
 }
-.b-java {
+.v-rocket {
   &:before {
-    content: $b-java; 
+    content: $v-rocket; 
   }
 }
-.b-jdk {
+.v-sphinx {
   &:before {
-    content: $b-jdk; 
+    content: $v-sphinx; 
   }
 }
-.b-jre {
+.v-ara4us {
   &:before {
-    content: $b-jre; 
+    content: $v-ara4us; 
   }
 }
-.b-apache {
+.v-right {
   &:before {
-    content: $b-apache; 
+    content: $v-right; 
   }
 }
-.b-tomcat {
+.v-trialstoday {
   &:before {
-    content: $b-tomcat; 
+    content: $v-trialstoday; 
   }
 }
-.b-elastic {
+.v-rd {
   &:before {
-    content: $b-elastic; 
+    content: $v-rd; 
   }
 }
-.b-elasticsearch {
+.v-sd {
   &:before {
-    content: $b-elasticsearch; 
+    content: $v-sd; 
   }
 }
-.b-artifactory {
+.v-studies {
   &:before {
-    content: $b-artifactory; 
+    content: $v-studies; 
   }
 }
-.b-windows {
+.v-tin {
   &:before {
-    content: $b-windows; 
+    content: $v-tin; 
   }
 }
-.b-wordpress {
+.v-mid-south {
   &:before {
-    content: $b-wordpress; 
+    content: $v-mid-south; 
   }
 }
-.b-kibana {
+.v-stride {
   &:before {
-    content: $b-kibana; 
+    content: $v-stride; 
   }
 }
-.b-monit {
+.v-vcc {
   &:before {
-    content: $b-monit; 
+    content: $v-vcc; 
   }
 }
-.b-mmonit {
+.v-emerge {
   &:before {
-    content: $b-mmonit; 
+    content: $v-emerge; 
   }
 }
-.b-jenkins {
+.v-cds_kb {
   &:before {
-    content: $b-jenkins; 
+    content: $v-cds_kb; 
   }
 }
-.b-ansible {
+.v-crc {
   &:before {
-    content: $b-ansible; 
+    content: $v-crc; 
   }
 }
-.b-mysql {
+.v-irb_choice {
   &:before {
-    content: $b-mysql; 
+    content: $v-irb_choice; 
   }
 }
-.b-mariadb {
+.v-irex {
   &:before {
-    content: $b-mariadb; 
+    content: $v-irex; 
   }
 }
-.b-nginx {
+.v-etl_dashboard {
   &:before {
-    content: $b-nginx; 
+    content: $v-etl_dashboard; 
   }
 }
-.b-tierpoint {
+.v-mydruggenome {
   &:before {
-    content: $b-tierpoint; 
+    content: $v-mydruggenome; 
   }
 }
-.b-slack {
+.v-peer {
   &:before {
-    content: $b-slack; 
+    content: $v-peer; 
   }
 }
-.b-matomo {
+.v-daybreak {
   &:before {
-    content: $b-matomo; 
+    content: $v-daybreak; 
+  }
+}
+.v-recruit {
+  &:before {
+    content: $v-recruit; 
+  }
+}
+.v-fastertogether {
+  &:before {
+    content: $v-fastertogether; 
+  }
+}
+.v-pmforallpeople {
+  &:before {
+    content: $v-pmforallpeople; 
+  }
+}
+.v-drugrepurposing {
+  &:before {
+    content: $v-drugrepurposing; 
+  }
+}
+.v-dnascan {
+  &:before {
+    content: $v-dnascan; 
+  }
+}
+.v-proclaimstudy {
+  &:before {
+    content: $v-proclaimstudy; 
+  }
+}
+.v-shrine {
+  &:before {
+    content: $v-shrine; 
+  }
+}
+.v-victastrialsites {
+  &:before {
+    content: $v-victastrialsites; 
+  }
+}
+.v-abnlmarro {
+  &:before {
+    content: $v-abnlmarro; 
+  }
+}
+.v-starcrn {
+  &:before {
+    content: $v-starcrn; 
+  }
+}
+.v-ld {
+  &:before {
+    content: $v-ld; 
   }
 }
 

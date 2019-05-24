@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'brands';
-  src:  url('fonts/brands.eot?1zfeya');
-  src:  url('fonts/brands.eot?1zfeya#iefix') format('embedded-opentype'),
-    url('fonts/brands.ttf?1zfeya') format('truetype'),
-    url('fonts/brands.woff?1zfeya') format('woff'),
-    url('fonts/brands.svg?1zfeya#brands') format('svg');
+  font-family: 'victr';
+  src:  url('fonts/victr.eot?3r5s52');
+  src:  url('fonts/victr.eot?3r5s52#iefix') format('embedded-opentype'),
+    url('fonts/victr.ttf?3r5s52') format('truetype'),
+    url('fonts/victr.woff?3r5s52') format('woff'),
+    url('fonts/victr.svg?3r5s52#victr') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
-.brands {
+.victr {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'brands' !important;
+  font-family: 'victr' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -24,102 +24,135 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.b-pivotaltracker:before {
-  content: "\e900";
-}
-.b-statuscake:before {
-  content: "\e908";
-}
-.b-splunk:before {
-  content: "\e909";
-}
-.b-redhat:before {
-  content: "\e905";
-}
-.b-googlecloud:before {
-  content: "\e90a";
-}
-.b-mailchimp:before {
-  content: "\e916";
-}
-.b-jira:before {
-  content: "\e915";
-}
-.b-pma:before {
-  content: "\e919";
-}
-.b-monyog:before {
-  content: "\e91a";
-}
-.b-oracle:before {
-  content: "\e90d";
-}
-.b-solr:before {
-  content: "\e90e";
-}
-.b-nutch:before {
+.v-vumc:before {
   content: "\e901";
 }
-.b-java:before {
-  content: "\e912";
+.v-vanderbilt:before {
+  content: "\e901";
 }
-.b-jdk:before {
-  content: "\e912";
+.v-redcap:before {
+  content: "\e900";
 }
-.b-jre:before {
-  content: "\e912";
-}
-.b-apache:before {
-  content: "\e902";
-}
-.b-tomcat:before {
-  content: "\e90f";
-}
-.b-elastic:before {
-  content: "\e910";
-}
-.b-elasticsearch:before {
-  content: "\e911";
-}
-.b-artifactory:before {
-  content: "\e917";
-}
-.b-windows:before {
-  content: "\e918";
-}
-.b-wordpress:before {
-  content: "\e914";
-}
-.b-kibana:before {
-  content: "\e91b";
-}
-.b-monit:before {
-  content: "\e91c";
-}
-.b-mmonit:before {
-  content: "\e91c";
-}
-.b-jenkins:before {
-  content: "\e91d";
-}
-.b-ansible:before {
-  content: "\e903";
-}
-.b-mysql:before {
-  content: "\e904";
-}
-.b-mariadb:before {
+.v-myredcap:before {
   content: "\e906";
 }
-.b-nginx:before {
+.v-redcapmobile:before {
   content: "\e907";
 }
-.b-tierpoint:before {
+.v-pegasus:before {
+  content: "\e902";
+}
+.v-esmart:before {
+  content: "\e903";
+}
+.v-researchmatch:before {
+  content: "\e904";
+}
+.v-starbrite:before {
+  content: "\e905";
+}
+.v-participants:before {
+  content: "\e909";
+}
+.v-airflo:before {
+  content: "\e90a";
+}
+.v-noaac:before {
   content: "\e90b";
 }
-.b-slack:before {
+.v-rocket:before {
   content: "\e90c";
 }
-.b-matomo:before {
+.v-sphinx:before {
+  content: "\e90d";
+}
+.v-ara4us:before {
+  content: "\e90e";
+}
+.v-right:before {
+  content: "\e90f";
+}
+.v-trialstoday:before {
+  content: "\e910";
+}
+.v-rd:before {
+  content: "\e91f";
+}
+.v-sd:before {
+  content: "\e920";
+}
+.v-studies:before {
   content: "\e913";
+}
+.v-tin:before {
+  content: "\e921";
+}
+.v-mid-south:before {
+  content: "\e915";
+}
+.v-stride:before {
+  content: "\e916";
+}
+.v-vcc:before {
+  content: "\e922";
+}
+.v-emerge:before {
+  content: "\e918";
+}
+.v-cds_kb:before {
+  content: "\e919";
+}
+.v-crc:before {
+  content: "\e91a";
+}
+.v-irb_choice:before {
+  content: "\e91b";
+}
+.v-irex:before {
+  content: "\e923";
+}
+.v-etl_dashboard:before {
+  content: "\e91d";
+}
+.v-mydruggenome:before {
+  content: "\e91e";
+}
+.v-peer:before {
+  content: "\e908";
+}
+.v-daybreak:before {
+  content: "\e911";
+}
+.v-recruit:before {
+  content: "\e912";
+}
+.v-fastertogether:before {
+  content: "\e914";
+}
+.v-pmforallpeople:before {
+  content: "\e917";
+}
+.v-drugrepurposing:before {
+  content: "\e91c";
+}
+.v-dnascan:before {
+  content: "\e925";
+}
+.v-proclaimstudy:before {
+  content: "\e926";
+}
+.v-shrine:before {
+  content: "\e927";
+}
+.v-victastrialsites:before {
+  content: "\e924";
+}
+.v-abnlmarro:before {
+  content: "\e928";
+}
+.v-starcrn:before {
+  content: "\e929";
+}
+.v-ld:before {
+  content: "\e92a";
 }

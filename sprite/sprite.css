@@ -1,156 +1,221 @@
-.brands {
+.victr {
   display: inline-block;
   background-repeat: no-repeat;
   background-image: url(sprite.svg);
 }
-.b-pivotaltracker {
-  width: 32px;
+.v-vumc {
+  width: 39px;
   height: 32px;
   background-position: 0 0;
 }
-.b-statuscake {
+.v-redcap {
   width: 32px;
   height: 32px;
   background-position: -48px 0;
 }
-.b-splunk {
-  width: 33px;
+.v-myredcap {
+  width: 32px;
   height: 32px;
   background-position: -96px 0;
 }
-.b-redhat {
+.v-redcapmobile {
   width: 32px;
   height: 32px;
   background-position: -144px 0;
 }
-.b-googlecloud {
-  width: 37px;
+.v-pegasus {
+  width: 32px;
   height: 32px;
   background-position: -192px 0;
 }
-.b-mailchimp {
-  width: 30px;
+.v-esmart {
+  width: 32px;
   height: 32px;
   background-position: -240px 0;
 }
-.b-jira {
-  width: 31px;
+.v-researchmatch {
+  width: 32px;
   height: 32px;
   background-position: -288px 0;
 }
-.b-pma {
+.v-starbrite {
   width: 32px;
   height: 32px;
   background-position: -336px 0;
 }
-.b-monyog {
+.v-participants {
   width: 32px;
   height: 32px;
   background-position: -384px 0;
 }
-.b-oracle {
+.v-airflo {
   width: 32px;
   height: 32px;
   background-position: -432px 0;
 }
-.b-solr {
+.v-noaac {
   width: 32px;
   height: 32px;
   background-position: -480px 0;
 }
-.b-nutch {
+.v-rocket {
   width: 32px;
   height: 32px;
   background-position: -528px 0;
 }
-.b-java {
+.v-sphinx {
   width: 32px;
   height: 32px;
   background-position: -576px 0;
 }
-.b-apache {
+.v-ara4us {
   width: 32px;
   height: 32px;
   background-position: -624px 0;
 }
-.b-tomcat {
+.v-right {
   width: 32px;
   height: 32px;
   background-position: -672px 0;
 }
-.b-elastic {
+.v-trialstoday {
   width: 32px;
   height: 32px;
   background-position: -720px 0;
 }
-.b-elasticsearch {
+.v-rd {
   width: 32px;
   height: 32px;
   background-position: 0 -48px;
 }
-.b-artifactory {
+.v-sd {
   width: 32px;
   height: 32px;
   background-position: -48px -48px;
 }
-.b-windows {
-  width: 28px;
+.v-studies {
+  width: 32px;
   height: 32px;
   background-position: -96px -48px;
 }
-.b-wordpress {
+.v-tin {
   width: 32px;
   height: 32px;
   background-position: -144px -48px;
 }
-.b-kibana {
+.v-mid-south {
   width: 32px;
   height: 32px;
   background-position: -192px -48px;
 }
-.b-monit {
-  width: 40px;
+.v-stride {
+  width: 32px;
   height: 32px;
   background-position: -240px -48px;
 }
-.b-jenkins {
+.v-vcc {
   width: 32px;
   height: 32px;
   background-position: -288px -48px;
 }
-.b-ansible {
+.v-emerge {
   width: 32px;
   height: 32px;
   background-position: -336px -48px;
 }
-.b-mysql {
+.v-cds_kb {
   width: 32px;
   height: 32px;
   background-position: -384px -48px;
 }
-.b-mariadb {
+.v-crc {
   width: 32px;
   height: 32px;
   background-position: -432px -48px;
 }
-.b-nginx {
+.v-irb_choice {
   width: 32px;
   height: 32px;
   background-position: -480px -48px;
 }
-.b-tierpoint {
+.v-irex {
   width: 32px;
   height: 32px;
   background-position: -528px -48px;
 }
-.b-slack {
+.v-etl_dashboard {
   width: 32px;
   height: 32px;
   background-position: -576px -48px;
 }
-.b-matomo {
+.v-mydruggenome {
   width: 32px;
   height: 32px;
   background-position: -624px -48px;
+}
+.v-peer {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -48px;
+}
+.v-daybreak {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -48px;
+}
+.v-recruit {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -96px;
+}
+.v-fastertogether {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -96px;
+}
+.v-pmforallpeople {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -96px;
+}
+.v-drugrepurposing {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -96px;
+}
+.v-dnascan {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -96px;
+}
+.v-proclaimstudy {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -96px;
+}
+.v-shrine {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -96px;
+}
+.v-victastrialsites {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -96px;
+}
+.v-abnlmarro {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -96px;
+}
+.v-starcrn {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -96px;
+}
+.v-ld {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -96px;
 }
 
