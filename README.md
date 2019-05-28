@@ -6,7 +6,7 @@
 
 <br>
 
-## Latest Version: **v0.6.6** - 1 images - 1 update
+## Latest Version: **v0.6.7** - 1 images - 1 update
 
 ### Three ways to use
 
@@ -29,6 +29,8 @@
 <br>
 
 ## Previous Versions
+
+### **v0.6.6** - 0 images (bad upload)
 
 ### **v0.6.5** - 1 images
 
@@ -66,7 +68,7 @@
 <br>
 <br>
 
-## Included Images: **v0.6.6**
+## Included Images: **v0.6.7**
 
 ![](img/PNG/ld.png) 
 
@@ -74,7 +76,7 @@ Icon Font: `<i class="victr v-ld"></i>`
 
 SVG Sprite: `<svg class="victr v-ld"><use xlink:href="#v-ld"></use></svg>`
 
-## Updated Images: **v0.6.6**
+## Updated Images: **v0.6.7**
 
 ![](img/PNG/pegasus.png) 
 
